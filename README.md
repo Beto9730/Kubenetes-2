@@ -1,2 +1,2 @@
-# Kubenetes-2
+# Kubernetes-2
 Laboratorio de Kubernetes-2
